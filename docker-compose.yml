@@ -1,0 +1,11 @@
+services:
+  vitepress:
+    build: .
+    container_name: vitepress_local_EX4
+    ports:
+      - "3500:3500"
+    volumes:
+      - .:/app
+    tty: true
+    # command: npm run docs:dev
+    command: npm run docs:dev
