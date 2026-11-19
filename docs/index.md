@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 理工憲法
-      link: /code_artififact
+      link: /code_artifact
     - theme: alt
       text: API Examples
       link: /api-examples
