@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/akita/',
-  title: "EX4",
-  description: "EX4",
+  title: "RIKO-KEMPO",
+  description: "RIKO-KEMPO",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
