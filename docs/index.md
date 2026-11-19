@@ -11,11 +11,11 @@ hero:
       link: /code_artifact
  
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 理工wiki
+    link: science.rikizap.com 
+  - title: 朋優学院HP
+    link: ho-yu.ed.jp
+  - title: 
+    details: 
 ---
 
