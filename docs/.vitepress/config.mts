@@ -24,5 +24,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/SSS465270/akita' }
     ]
+    footer: {
+      copyright: 'Copyright © 2026 理工憲法 / SSS465270'
+    }
   }
 })
