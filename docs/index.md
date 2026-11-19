@@ -3,17 +3,14 @@
 layout: home
 
 hero:
-  name: "EX4"
-  text: "EX4"
+  name: "理工憲法へようこそ"
+  text: "平和の維持のために、全部員、守りましょう"
   tagline: My great project tagline
   actions:
     - theme: brand
       text: 理工憲法
       link: /code_artifact
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
+ 
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
