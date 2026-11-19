@@ -4,8 +4,7 @@ layout: home
 
 hero:
   name: "理工憲法へようこそ"
-  text: "平和の維持のために、全部員、守りましょう"
-  tagline: My great project tagline
+  tagline: "平和の維持のために、全部員、守りましょう"
   actions:
     - theme: brand
       text: 理工憲法
