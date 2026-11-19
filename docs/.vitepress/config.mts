@@ -9,12 +9,11 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Contents',
         items: [
           { text: '理工憲法', link: '/code_artifact' },
           { text: '', link: '/' }
@@ -23,7 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'science.rikizap.com' }
+      { icon: 'github', link: 'https://github.com/SSS465270/akita' }
     ]
   }
 })
