@@ -1,6 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+footer: true
 
 hero:
   name: "理工憲法へようこそ"
