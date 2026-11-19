@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/akita/',
-  title: "RIKO-KEMPO",
-  description: "RIKO-KEMPO",
+  title: "理工憲法",
+  description: "理工憲法",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

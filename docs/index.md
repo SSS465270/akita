@@ -7,14 +7,14 @@ hero:
   tagline: "平和の維持のために、全部員、守りましょう"
   actions:
     - theme: brand
-      text: 理工憲法
+      text: 理工憲法を開く
       link: /code_artifact
  
 features:
   - title: 理工wiki
-    details: "[](https://science.rikizap.com)"
+    details: "[open](https://science.rikizap.com)"
   - title: 朋優学院HP
-    details: "[](https://ho-yu.ed.jp)"
+    details: "[open](https://ho-yu.ed.jp)"
   - title: 
     details: 
 ---
