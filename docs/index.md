@@ -5,6 +5,8 @@ layout: home
 hero:
   name: "理工憲法へようこそ"
   tagline: "平和の維持のために、全部員、守りましょう"
+  image:
+    src: /riko_logo.png
   actions:
     - theme: brand
       text: 理工憲法を開く

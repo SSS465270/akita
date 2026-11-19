@@ -136,4 +136,13 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
+/* ダークモード時にヒーローのロゴ画像を白反転させる */
+.dark .VPHero .VPImage {
+  filter: invert(1);
+}
 
+/* サブタイトル（hero.text）の文字サイズを小さくする */
+.VPHero .text {
+  font-size: clamp(20px, 2.8vw, 32px) !important;
+  line-height: 1.4 !important;
+}
