@@ -12,9 +12,9 @@ hero:
  
 features:
   - title: 理工wiki
-    details: "[open](https://science.rikizap.com)"
+    details: "[開く](https://science.rikizap.com)"
   - title: 朋優学院HP
-    details: "[open](https://ho-yu.ed.jp)"
+    details: "[開く](https://ho-yu.ed.jp)"
   - title: 
     details: 
 ---
