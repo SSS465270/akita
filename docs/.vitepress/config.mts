@@ -15,9 +15,14 @@ export default defineConfig({
       {
         text: 'Contents',
         items: [
+          { text: 'HOME', link: '/' },
           { text: '理工憲法', link: '/code_artifact' },
-          { text: '', link: '/' }
+          { text: '更新履歴', link: '/koushin' },
         ]
+      },
+      {
+        text: '',
+        link: '/'
       }
     ],
 

@@ -4,14 +4,14 @@ layout: home
 footer: true
 
 hero:
-  name: "理工憲法へようこそ"
+  name: "理工憲法（草案）へようこそ"
   tagline: "平和の維持のために、全部員、守りましょう"
   image:
     src: /riko_logo.png
     alt: Sci Tec Club
   actions:
     - theme: brand
-      text: 理工憲法を開く
+      text: 理工憲法（草案）を開く
       link: /code_artifact
  
 features:
